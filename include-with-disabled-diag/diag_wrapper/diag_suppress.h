@@ -6,3 +6,5 @@
  */
 
 #pragma diag_suppress=Pm128 // Error[Pm128]: illegal implicit conversion from underlying MISRA type (MISRA C 2004 rule 10.1)
+#pragma diag_suppress=Pe261 // Remark[Pe261]: access control not specified
+#pragma diag_suppress=Pa137 // Remark[Pa137]: use of C-style cast
