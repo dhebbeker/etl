@@ -8,3 +8,4 @@
 #pragma diag_default=Pm128
 #pragma diag_default=Pe261
 #pragma diag_default=Pa137
+#pragma diag_default=Pm130
